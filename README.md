@@ -56,15 +56,7 @@ Currently, I'm advancing my skills through the **NPower Canada Junior Data Analy
 
 ---
 
-## 🚧 Projects
 
-### 🦷 Dental Clinic Database
-Designed and implemented a relational database system to manage patient records, appointments, and clinic operations.
-
-### 🎮 Stick Man Game
-Developed a simple game project demonstrating programming fundamentals and problem-solving skills.
-
----
 
 ## 🌱 Currently Learning
 
