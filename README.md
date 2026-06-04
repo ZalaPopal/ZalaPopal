@@ -1,129 +1,96 @@
-# Zala Popal
+# 👋 Hi, I'm Zala Popal
 
-## About Me
-Motivated professional with over 3 years of experience in customer service, call centers, and interpretation across healthcare, banking, insurance, education, and government sectors. Skilled in communication, data accuracy, problem-solving, and working in fast-paced environments.
-
----
-
-## Contact Information
-- Location: Toronto, Ontario, Canada
-- Phone: (437) 551-5194
-- Email: zalapopal2002@gmail.com
-- LinkedIn: www.linkedin.com/in/zalapopal/
+🎓 **Bachelor of Science in Computer Science**  
+📊 **Aspiring Data Analyst | Python | SQL | Data Visualization**  
+📍 **Toronto, Ontario, Canada**
 
 ---
 
-## Professional Summary
-- 3+ years of experience in customer service, call centers, and interpretation.
-- Experienced in handling high-volume calls and resolving customer issues.
-- Strong data entry, documentation, and process-driven work experience.
-- Proficient in Microsoft Office, CRM systems, and electronic record systems.
-- Strong communication, note-taking, and multitasking abilities.
-- Fluent in English and Dari.
+## 🚀 About Me
+
+I'm a Computer Science graduate with a passion for data analytics, problem-solving, and technology. My professional experience in customer service and interpretation has strengthened my analytical thinking, communication, and attention to detail.
+
+Currently, I'm advancing my skills through the **NPower Canada Junior Data Analyst Program**, where I'm gaining hands-on experience in data analysis, visualization, and business intelligence tools.
 
 ---
 
-## Professional Experience
+## 💡 What I Do
 
-### Interpreter | Kelly Services
-**Aug 2024 – Present | Toronto, Ontario**
-
-- Handle 30+ calls daily across healthcare, banking, insurance, education, and government sectors.
-- Interpret complex medical conversations between patients and healthcare providers.
-- Maintain confidentiality and handle sensitive personal and financial information.
-- Apply strong listening, note-taking, and memory skills to ensure accurate communication.
-- Support communication between patients, families, and healthcare staff.
-- Follow structured processes requiring precision and documentation.
-
-### Call Center Representative | Etisalat
-**Jan 2020 – Feb 2022 | Kabul, Afghanistan**
-
-- Achieved 100+ calls per day and exceeded performance expectations.
-- Trained and onboarded new employees on systems and workflows.
-- Conducted customer satisfaction surveys and collected actionable feedback.
-- Assisted in preparing reports from customer interactions and survey results.
-- Analyzed customer feedback trends to support service improvements.
-- Maintained accurate records and data entry for quality assurance.
+- 📊 Analyze and interpret data to uncover insights
+- 🧹 Clean and organize datasets for accurate reporting
+- 📈 Create visualizations and reports for decision-making
+- 🐍 Solve problems using Python and SQL
+- 🔍 Identify trends and support data-driven solutions
+- 🤝 Communicate technical information effectively
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-- Customer Service & Inbound Call Handling
-- CRM Systems
-- Data Entry (50+ WPM)
-- Microsoft Office (Excel, Word, Outlook)
-- Python
-- Data Analysis & Visualization
-- HTML5 & CSS3
-- SQL Databases
-- Problem Solving & Communication
+### 💻 Programming & Databases
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📊 Data Analytics & Visualization
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### ⚙️ Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-## Education
+## 📚 Certifications
 
-### Bachelor of Science in Computer Science
-**American University of Afghanistan**
-Jan 2021 – Aug 2025
-
-Relevant Coursework:
-- Python
-- Java
-- SQL Databases
-- Excel
-
-Projects:
-- Stick Man Game
-- Simple Dental Clinic Database
-
-### Junior Data Analyst Program
-**NPower Canada**
-Expected Completion: May 2026
-
-Certifications:
 - IBM Data Analyst Professional Certificate
-- Microsoft Azure AI-900 Professional Certificate
-
-### ICT Program
-**Afghan Tech Sisters**
-Sep 2020 – Oct 2020
-
-- Information and Communication Technology Certificate
+- Microsoft Azure AI-900 Certification
+- Information & Communication Technology (ICT) Certificate
 
 ---
 
-## Volunteer Experience
+## 🚧 Projects
 
-### Human Resource Intern | GAO Tek Inc.
-**Jan 2022 – Jul 2022**
+### 🦷 Dental Clinic Database
+Designed and implemented a relational database system to manage patient records, appointments, and clinic operations.
 
-- Conducted interviews and supported recruitment activities.
-- Performed employee surveys to identify workplace needs and concerns.
-- Maintained organized records and HR documentation.
+### 🎮 Stick Man Game
+Developed a simple game project demonstrating programming fundamentals and problem-solving skills.
 
 ---
 
-## Career Interests
+## 🌱 Currently Learning
 
-- Data Analysis
+- Advanced SQL
+- Power BI
+- Data Visualization
 - Business Intelligence
-- Customer Success
-- Operations Support
-- Technical Support
-- Data-Driven Decision Making
+- Data Analytics Workflows
 
 ---
 
-## Languages
+## 🤝 Professional Strengths
 
-- English (Fluent)
-- Dari (Fluent)
+- Data Analysis & Problem Solving
+- Data Accuracy & Attention to Detail
+- Communication & Collaboration
+- Fast Learning & Adaptability
+- Multitasking in Fast-Paced Environments
 
 ---
 
-## Certifications
+## 📫 Connect With Me
 
-- IBM Data Analyst Professional Certificate
-- Microsoft Azure AI-900 Professional Certificate
-- Information and Communication Technology (ICT) Certificate
+💼 **LinkedIn:** www.linkedin.com/in/zalapopal/  
+📧 **Email:** zalapopal2002@gmail.com
+
+---
+
+⭐ **Open to opportunities in Data Analytics, Business Intelligence, Data Operations, and Technology-related roles.**
