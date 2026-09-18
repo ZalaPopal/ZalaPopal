@@ -40,7 +40,7 @@ Currently, I'm advancing my skills through the **NPower Canada Junior Data Analy
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-C5F281?style=for-the-badge&logo=lookerstudio&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-C5F281?style=for-the-badge&logo=tableau&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-A5C231?style=for-the-badge&logo=tableau&logoColor=black)
 
 
 ### ⚙️ Tools & Technologies
